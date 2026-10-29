@@ -23,7 +23,7 @@ table, header{
         box-sizing: border-box;
     }
     table {
-        min-width: 600;
+        min-width: 500;
     }
     
 }
