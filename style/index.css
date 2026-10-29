@@ -15,7 +15,7 @@ table {
 }
 
 @media screen and (max-width: 600px)  {
-    table, tbody{
+    table{
         display: block;
         width: 100%;
         box-sizing: border-box;
