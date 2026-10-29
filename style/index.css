@@ -10,3 +10,12 @@ h1{
 table {
     width: 100%;
 }
+
+@media screen and (max-width: 600px)  {
+    table {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    
+}
