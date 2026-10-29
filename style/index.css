@@ -11,19 +11,17 @@ h1{
     color: white;
 }
 
-table, header{
-    width: 100%;
-
-}
 
 @media screen and (max-width: 768px)  {
-    table{
+    main{
+        display: block;
         overflow-x: auto;
         width: 100%;
         box-sizing: border-box;
+        padding: 0 10px;
     }
     table {
-        min-width: 500px;
+        min-width: 600px;
     }
     
 }
